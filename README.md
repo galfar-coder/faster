@@ -1,2 +1,2 @@
-# faster
+# fastr
 A library in Python
